@@ -7,6 +7,8 @@ La page "Biographie" est une présentation détaillée de l'histoire de Spiderma
 
 La page "Multivers" est consacrée à l'exploration des différentes versions de Spiderman à travers les multivers. 
 
+L. Sacha, T. Théo, B. Johann & J Lucas
+
 ---
   
   <div align="center">
