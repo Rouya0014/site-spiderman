@@ -1,4 +1,4 @@
-
+<div align="center">
 Spiderman est un super-héros emblématique qui se retrouve maintenant dans le monde des affaires. Notre site vitrine dédié à Spiderman permet de présenter son histoire, de promouvoir ses différentes versions à travers les multivers et de faciliter le contact avec notre entreprise.
 
 La page d'accueil, offre une brève introduction à Spiderman.
