@@ -17,4 +17,4 @@ L. Sacha, T. Théo, B. Johann & J Lucas
 </div>
 <br>
 <div align="center">
-Ceci est un projet étudiant, aucune affiliation à l'entreprise.
+Ceci est un projet étudiant, aucune affiliation à l'entreprise. test
